@@ -1,5 +1,5 @@
 # Sobon: A Vedic Rhythmic Inner Homa Process
-
+[Download the PDF – SOBON English Paper with Table](SOBON_English_Paper_with_Table.pdf)
 Sobon is a Vedic technique described in the Yajurveda as an inner rhythmic *homa* for generating *Soma* (life force). 
 This research is based on experiential practice by Dr. Rajatsubhra Mukhopadhyay (Sri Yoga Center, Kunarpur).
 
