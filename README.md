@@ -90,8 +90,7 @@ interpreted and practiced under Sri Yoga Center Trust (SYCT).
 (Summary of Sobon, importance, philosophy, etc.)
 
 ---
-
-## 📌 Official Links & Resources
+## 📌 Official Links & Resources  
 
 **Sri Yoga Center Trust – Kunarpur (SYCT)** – Parent Organization  
 🔗 [Wikidata: Q135898418 – SYCT](https://www.wikidata.org/wiki/Q135898418)  
@@ -99,11 +98,10 @@ interpreted and practiced under Sri Yoga Center Trust (SYCT).
 
 ---
 
-### 🌺 Sobon – Vedic Research & Innovation Wing (SYCT)
-📑 [Zenodo – Sobon Research Outputs](https://zenodo.org/communities/sobon)  
-📂 [Figshare – Sobon Collection](…)  
-💻 [GitHub – Sobon Repository](…)
-
+### 🌺 Sobon – Vedic Research & Innovation Wing (SYCT)  
+- 📑 [Zenodo – Sobon Research Outputs (DOI: 10.5281/zenodo.16750095)](https://doi.org/10.5281/zenodo.16750095)  
+- 📂 [Figshare – Sobon-Veda Dataset (ID: 29994772)](https://figshare.com/articles/dataset/sobon-Veda/29994772)  
+- 💻 [GitHub – Sobon-Veda Repository](https://github.com/drrajatsubhra/sobon-Veda)
 ---
 
 ## License
