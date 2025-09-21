@@ -79,6 +79,36 @@ AAXTS1917M
 ### 📌 Location
 Kunarpur, Sihar, Dist-Bankura – 722161, West Bengal, India
 
+# Sobon – Vedic Inner Homa Innovation
+
+A research initiative documenting the Vedic process of “Sobon” described in the Yajurveda, 
+interpreted and practiced under Sri Yoga Center Trust (SYCT).
+
+---
+
+## Background
+(Summary of Sobon, importance, philosophy, etc.)
+
+---
+
+## 📌 Official Links & Resources
+
+**Sri Yoga Center Trust – Kunarpur (SYCT)** – Parent Organization  
+🔗 [Wikidata: Q135898418 – SYCT](https://www.wikidata.org/wiki/Q135898418)  
+🎥 [Sri Yoga Center – Official YouTube](https://www.youtube.com/@sriyoga_center)
+
+---
+
+### 🌺 Sobon – Vedic Research & Innovation Wing (SYCT)
+📑 [Zenodo – Sobon Research Outputs](https://zenodo.org/communities/sobon)  
+📂 [Figshare – Sobon Collection](…)  
+💻 [GitHub – Sobon Repository](…)
+
+---
+
+## License
+MIT License – see [LICENSE](LICENSE) file.
+
 ---
 
 > 🕉️ This is a **Sridoctor® Product** — An initiative to connect modern health consciousness with ancient Indian wisdom, written from a remote rural setting for the benefit of the world.
